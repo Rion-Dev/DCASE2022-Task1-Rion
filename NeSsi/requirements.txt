@@ -1,0 +1,6 @@
+pathlib
+numpy
+tensorflow
+torch
+flatbuffers
+prettytable
